@@ -1,0 +1,37 @@
+This is the Historical Stock Market Data of five major Big Tech companies: NVIDIA (NVDA), 
+Apple (AAPL), Microsoft (MSFT), Google (GOOGL), and Amazon (AMZN) over a period of 
+15 years from January 1, 2010 to January 1, 2025.
+
+It includes daily stock data with opening and closing prices, highs, lows and trading volume.
+This dataset serves as a valuable resource for analyzing long term growth trends, volatility 
+and market behavior of leading tech giants.
+By analyzing this dataset, we can gain a deeper understanding of NVDA, AAPL, MSFT, 
+GOOGL, and AMZN's historical stock behavior over 15 years and make predictions about their 
+future performance.
+
+Date: The trading date of the stock data entry.
+Close_AAPL: Apple’s stock price at market close at the end of the trading days.
+Close_AMZN: Amazon’s stock price at market close at the end of the trading days.
+Close_GOOGL: Google’s stock price at market close at the end of the trading days.
+Close_MSFT: Microsoft’s stock price at the end of the trading days.
+Close_NVDA: NVIDIA’s stock price at the end of the trading days.
+High_AAPL: The highest price of Apple’s stock reached during the trading days.
+High_AMZN: The highest price of Amazon’s stock reached during the trading days.
+High_GOOGL: The highest price of Google’s stock reached during the trading days.
+High_MSFT: The highest price of Microsoft’s stock reached during the trading days.
+High_NVDA: The highest price of NVIDIA’s stock reached during the trading days.
+Low_AAPL: The lowest price of Apple’s stock reached during the trading days.
+Low_AMZN: The lowest price of Amazon’s stock reached during the trading days.
+Low_GOOGL: The lowest price of Google’s stock reached during the trading days.
+Low_MSFT: The lowest price of Microsoft’s stock reached during the trading days.
+Low_NVDA: The lowest price NVIDIA’s stock reached during the trading days.
+Open_AAPL: Apple’s opening stock price at the beginning of the trading days.
+Open_AMZN: Amazon’s opening stock price at the beginning of the trading days.
+Open_GOOGL: Google’s opening stock price at the beginning of the trading days.
+Open_MSFT: Microsoft’s opening stock price at the beginning of the trading days.
+Open_NVDA: NVIDIA’s opening stock price at the beginning of the trading days.
+Volume_AAPL: The number of shares traded of Apple’s stock during the trading days.
+Volume_AMZN: The number of shares traded of Amazon’s stock during the trading days.
+Volume_GOOGL: The number of shares traded of Google’s stock during the trading days.
+Volume_MSFT: The number of shares traded of Microsoft’s stock during the trading days.
+Volume_NVDA: The number of shares traded of NVIDIA’s stock during the trading days.
